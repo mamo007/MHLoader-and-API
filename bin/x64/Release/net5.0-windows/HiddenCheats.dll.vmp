@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="HiddenCheats.dll" Options="590792" OutputFileName="HiddenCheats.dll">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::RandomString(int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::ActivateKey_Load(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::button1_Click(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::button2_Click(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::Dispose(bool)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::InitializeComponent()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.AES::Decrypt(string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.AES::Encrypt(string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.AES::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::RandomString(int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::DeleteFilesExcept(class System.Collections.Generic.List`1&lt;string&gt;)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::RegistryThreadFunc()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::CheckThreadFunc()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::Form1_Load(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::button1_Click(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::Login_FormClosing(object, class System.Windows.Forms.FormClosingEventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::timer2_Tick(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::Dispose(bool)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::InitializeComponent()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::RandomString(int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::injectLib(string, unsigned int8[])" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::TokenThreadFunc()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::GrantAccess(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::DownloadDll(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::DownloadDll2(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::Main_Load(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::timer1_Tick(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::button1_Click(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::button2_Click(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::Main_FormClosing(object, class System.Windows.Forms.FormClosingEventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::linkLabel1_LinkClicked(object, class System.Windows.Forms.LinkLabelLinkClickedEventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::Dispose(bool)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::InitializeComponent()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Program::Main()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::RandomString(int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::DownloadExe(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::Updater_Load(object, class System.EventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::Updater_FormClosing(object, class System.Windows.Forms.FormClosingEventArgs)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::Dispose(bool)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::InitializeComponent()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::OpenBrowser(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::changeMD5(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::checkMD5(string[])" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::GetImageFromPicPath(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::Decrypt(string, string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::Encrypt(string, string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::PHPMd5Hash(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_Avatar()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_Avatar(class System.Drawing.Image)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_DisplayName()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_DisplayName(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_GroupName()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_GroupName(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_GroupId()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_GroupId(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_AvatarURL()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_AvatarURL(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_MemberHWID()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_MemberHWID(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_MemberMachine()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_MemberMachine(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_MemberOSVersion()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_MemberOSVersion(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_LoaderNews()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_LoaderNews(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_LoaderHWIDLT()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_LoaderHWIDLT(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_LoaderHWIDMN()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_LoaderHWIDMN(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_LoaderEXDate()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_LoaderEXDate(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::get_LoaderProdName()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::set_LoaderProdName(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::GetIPAddress()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::GetMemberHWID()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::GetOSFriendlyName()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::GetMemberMac()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::GetCPUID()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::GetMotherboardSerialNumber()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::CheckForAnyProxyConnections()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::AntiWeb()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::CheckForHTTPDebugger()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::CheckForBannedHWID()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::AddBannedHWID()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::IsSandboxie()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::IsEmulation()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::WellKnownSidType()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::ValidateRemoteCertificate(object, class System.Security.Cryptography.X509Certificates.X509Certificate, class System.Security.Cryptography.X509Certificates.X509Chain, valuetype System.Net.Security.SslPolicyErrors)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::DecryptThisShit(string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::TokenCheckFunc(string, string, string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::DecryptThisShit3(string, string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::DecryptThisShit4()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::DecryptThisShit5()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::Detect_Strings()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::DecryptThisShit13(string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::ActivateKeyFunc(string, string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::Login(string, string, bool)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Auth.Authenticator::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey/&lt;&gt;c::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey/&lt;&gt;c::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.ActivateKey/&lt;&gt;c::&lt;RandomString&gt;b__1_0(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c::&lt;RandomString&gt;b__2_0(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c__DisplayClass5_0::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c__DisplayClass5_0::&lt;DeleteFilesExcept&gt;b__0(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c__DisplayClass6_0::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c__DisplayClass6_0::&lt;RegistryThreadFunc&gt;b__0(class System.Diagnostics.Process)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c__DisplayClass6_0::&lt;RegistryThreadFunc&gt;b__1(class System.Diagnostics.Process)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c__DisplayClass11_0::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Login/&lt;&gt;c__DisplayClass11_0::&lt;timer2_Tick&gt;b__0(class System.Diagnostics.Process)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main/&lt;&gt;c::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main/&lt;&gt;c::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Main/&lt;&gt;c::&lt;RandomString&gt;b__3_0(string)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater/&lt;&gt;c::.cctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater/&lt;&gt;c::.ctor()" Options="0" CompilationType="1" />
+            <Procedure MapAddress="HiddenCheats_Loader2.Updater/&lt;&gt;c::&lt;RandomString&gt;b__1_0(string)" Options="0" CompilationType="1" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>

@@ -1,0 +1,4 @@
+<FilesMatch "\.(inf|htaccess)$">
+Order allow,deny
+Deny from all
+</FilesMatch>

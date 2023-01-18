@@ -22,4 +22,4 @@ You will need to change the paths in "Auth" to your new links and upload "solyar
 You will also need to change host configs in "solyarauth/Auth/database_config.php".
 The group Ids are controlled from "solyarauth/Auth" and you can change it to your needs.
 
-[img]https://i.imgur.com/UctjvUA.png[/img]
+![alt text](https://i.imgur.com/UctjvUA.png)

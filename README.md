@@ -2,7 +2,7 @@
 
 ## Description
 
-The project is made by Mamo007 and was meant to eductionally only. It was made by using C# and PHP languages.
+The project is made by Mamo007 and was meant to be eductionally only. It was made by using C# and PHP languages.
 The API is included under the name "solyarauth" and the C# auth is included under the name "Auth".
 You will need to add the tables in the database manually. Also the API was made for invisionCommunity (IPBOARD).
 

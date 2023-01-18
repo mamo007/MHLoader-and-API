@@ -22,4 +22,4 @@ You will need to change the paths in "Auth" to your new links and upload "solyar
 You will also need to change host configs in "solyarauth/Auth/database_config.php".
 The group Ids are controlled from "solyarauth/Auth" and you can change it to your needs.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="UctjvUA"><a href="https://imgur.com/UctjvUA">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/UctjvUA)

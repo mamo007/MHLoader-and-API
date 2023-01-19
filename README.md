@@ -14,6 +14,7 @@ This is a simple loader injection using Lunar library with a login system with s
 - Fully controlled from backend (Mysql and PHP).
 - Controlled by GroupIds for (VIPs and Members).
 - Auto-Update is included in the system with version check.
+- Auto change md5 hash and randomize loader name everytime on startup.
 - More flexible as it using .net core and many more features inside.
 
 ## How to use
